@@ -124,4 +124,4 @@ Through this project, I gained hands-on experience in:
 ## 🔗 Project Repository
 
 GitHub Repository:  
-👉 https://github.com/sriumamaheswari-pureti/SCT_DA_3
+👉https://github.com/sriumamaheswari-pureti/HR_Employee_Attrition_Dashboard
