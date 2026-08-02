@@ -26,14 +26,6 @@ It's built to be used, not just looked at — every chart is filterable, so it w
 
 ---
 
-## 🖼️ Preview
-
-<div align="center">
-<img src="Dashboard_Preview.png" alt="HR Employee Attrition Dashboard Preview" width="850"/>
-</div>
-
----
-
 ## 🧩 Dashboard Components
 
 ### 🎯 KPI Cards
